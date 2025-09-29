@@ -5,7 +5,7 @@ This repository contains a Power Bi dashboard of an E-commerce store to answer q
 
 Screenshot
 
-https://github.com/yash7586/E-Commerce-Store/blob/main/Dashboard%20Preview.png
+![image alt](https://github.com/yash7586/E-Commerce-Store/blob/main/Dashboard%20Preview.png)
 
 
 Installation
