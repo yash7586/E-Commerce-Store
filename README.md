@@ -10,7 +10,7 @@ This repository contains a Power Bi dashboard of an E-commerce store to answer q
 
 # Installation
 
-To run this project on your machine you need to install Microsoft Power Bi.
+To run this project on your machine you need to install (Microsoft Power Bi.)
 
 # Tools
 
